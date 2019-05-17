@@ -1,5 +1,5 @@
-def using_times(times= Wingardium Leviosa")
-	puts 7.times"#{times}"
+def using_times(times= "Wingardium Leviosa")
+	puts 7.times "#{times}"
 end
 
 
